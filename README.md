@@ -22,7 +22,7 @@
 
 
 
-<h4>1. Create VM:</h4>
+<h4>2. Create Virtual Machine (VM) in Azure:</h4>
 
 - Go to Azure Portal > Virtual machines > Create VM.
-- Choose OS, size, and configuration.
+- Choose a Region that's different from your host computer
