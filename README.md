@@ -13,4 +13,12 @@
 
 - Windows 10</b> (21H2)
 
-<h2>List of Prerequisites</h2>
+<h4>1. IP Address:</h4>
+
+- Go to Azure Portal > Virtual machines > Create VM.
+- Choose OS, size, and configuration.
+
+<h4>1. Create VM:</h4>
+
+- Go to Azure Portal > Virtual machines > Create VM.
+- Choose OS, size, and configuration.
