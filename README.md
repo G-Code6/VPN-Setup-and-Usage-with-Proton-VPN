@@ -47,4 +47,14 @@
 
 ![Screenshot 2024-05-20 at 10 17 49 PM](https://github.com/G-Code6/VPN-Setup-and-Usage-with-Proton-VPN/assets/163748328/8b3ade56-ee2a-429d-ac69-746f3521b558)
 
+<h4>5. Proton VPN :</h4>
+
+- sign up for a free Proton VPN account on host computer
+- copy the download link
+- go back to the virtual machine and download & install Proton VPN
+
+
+
+
+
 
