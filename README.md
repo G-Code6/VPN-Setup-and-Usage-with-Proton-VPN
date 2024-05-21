@@ -15,8 +15,10 @@
 
 <h4>1. IP Address:</h4>
 
-- Go to Azure Portal > Virtual machines > Create VM.
-- Choose OS, size, and configuration.
+- Make a note of your current IP address  
+- Go to www.whatismyipaddress.com 
+
+
 
 <h4>1. Create VM:</h4>
 
