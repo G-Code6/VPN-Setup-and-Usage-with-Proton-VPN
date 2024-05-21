@@ -40,3 +40,7 @@
 - Click "OK" or "Connect" to establish the remote desktop session
 
 ![Screenshot 2024-05-20 at 9 47 59 PM](https://github.com/G-Code6/VPN-Setup-and-Usage-with-Proton-VPN/assets/163748328/ab8af3ff-6da9-422f-aec3-139629e92687)
+
+- Once connected to the VM 
+- Go to www.whatismyipaddress.com
+- take note of your IP address 
