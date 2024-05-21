@@ -53,6 +53,7 @@
 - copy the download link
 - go back to the virtual machine and download & install Proton VPN
 
+![Screenshot 2024-05-20 at 11 00 51 PM](https://github.com/G-Code6/VPN-Setup-and-Usage-with-Proton-VPN/assets/163748328/8c48aa48-6734-452a-847e-4c355117c437)
 
 
 
