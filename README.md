@@ -18,6 +18,8 @@
 - Make a note of your current IP address  
 - Go to www.whatismyipaddress.com 
 
+![Screenshot 2024-05-20 at 8 53 13 PM](https://github.com/G-Code6/VPN-Setup-and-Usage-with-Proton-VPN/assets/163748328/a7b7ae8d-ecea-4592-9a30-95b1947f73ce)
+
 
 
 <h4>1. Create VM:</h4>
