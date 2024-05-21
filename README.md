@@ -44,3 +44,7 @@
 - Once connected to the VM 
 - Go to www.whatismyipaddress.com
 - take note of your IP address 
+
+![Screenshot 2024-05-20 at 10 17 49 PM](https://github.com/G-Code6/VPN-Setup-and-Usage-with-Proton-VPN/assets/163748328/8b3ade56-ee2a-429d-ac69-746f3521b558)
+
+
