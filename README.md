@@ -38,3 +38,5 @@
 - Enter the public IP address of your Azure VM.
 - Enter the username and password you configured when creating the VM.
 - Click "OK" or "Connect" to establish the remote desktop session
+
+![Screenshot 2024-05-20 at 9 47 59 PM](https://github.com/G-Code6/VPN-Setup-and-Usage-with-Proton-VPN/assets/163748328/ab8af3ff-6da9-422f-aec3-139629e92687)
