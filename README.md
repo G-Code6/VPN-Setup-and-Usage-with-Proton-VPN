@@ -26,3 +26,9 @@
 - Choose a Region that's different from your host computer
 
 ![Screenshot 2024-05-20 at 9 31 23 PM](https://github.com/G-Code6/VPN-Setup-and-Usage-with-Proton-VPN/assets/163748328/6038d358-ecee-4723-b706-d8f268502841)
+
+<h4>3. Access your Virtual Machine resource:</h3>
+
+
+<h4>4. Connect to VM:</h4>
+
